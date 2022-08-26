@@ -1,0 +1,3 @@
+z = 'Xondamir'
+
+print(z)
